@@ -6,8 +6,11 @@ title = ""
 [[page_sections]]
 block = "header-1"
 logo = ""
-navigation = []
 template = "navigation-header"
+[[page_sections.navigation]]
+link_text = "Test"
+link_url = "test"
+open_in_new_tab = false
 [[page_sections]]
 background_image = ""
 block = "hero-2"
