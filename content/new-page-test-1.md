@@ -21,6 +21,6 @@ link_url = ""
 open_in_new_tab = false
 [page_sections.image]
 alt_text = ""
-image = ""
+image = "/uploads/2018/06/21/forestry-symbol.svg"
 
 +++
