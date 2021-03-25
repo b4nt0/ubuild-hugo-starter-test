@@ -2,7 +2,6 @@
 background_image = ""
 block = "hero-2"
 content = "rewrewr"
-draft = true
 headline = "test"
 [cta]
 enabled = true
