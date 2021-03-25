@@ -12,7 +12,7 @@ link_text = "Test"
 link_url = "test"
 open_in_new_tab = false
 [[page_sections]]
-background_image = "/uploads/2018/06/21/forestry-symbol.svg"
+background_image = ""
 block = "hero-2"
 content = "Could not imagine I can do that"
 headline = "Wow, this is an edited content"
