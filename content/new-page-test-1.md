@@ -12,14 +12,14 @@ link_text = "Test"
 link_url = "test"
 open_in_new_tab = false
 [[page_sections]]
-background_image = ""
+background_image = "/uploads/2018/06/21/forestry-symbol.svg"
 block = "hero-2"
-content = ""
-headline = ""
+content = "Could not imagine I can do that"
+headline = "Wow, this is an edited content"
 template = "hero-banner-w-image"
 [page_sections.cta]
-enabled = false
-link_text = ""
+enabled = true
+link_text = "Do this"
 link_url = ""
 open_in_new_tab = false
 [page_sections.image]
